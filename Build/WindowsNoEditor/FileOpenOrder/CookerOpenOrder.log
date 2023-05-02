@@ -342,29 +342,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 341
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 342
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 343
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 344
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 345
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 346
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 347
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 348
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 349
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 350
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 351
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 352
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 353
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 354
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 355
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 356
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 357
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 358
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 359
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 360
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 361
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 362
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 363
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 364
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 365
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 345
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 346
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 347
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 348
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 349
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 350
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 351
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 352
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 354
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 355
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 356
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 357
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 366
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 367
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 368
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 369
@@ -520,181 +520,185 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 519
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 520
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 521
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/CheckpointInteraction.uasset" 522
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/CheckpointInteraction.uexp" 523
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 524
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uexp" 525
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 526
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uexp" 527
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/Bench.uasset" 528
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/Bench.uexp" 529
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/BenchSprite.uasset" 530
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/BenchSprite.uexp" 531
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/DamageTypeEnemy.uasset" 532
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/DamageTypeEnemy.uexp" 533
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 534
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 535
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyBase.uasset" 536
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyBase.uexp" 537
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/GameInstance/GameInstanceTest.uasset" 538
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/GameInstance/GameInstanceTest.uexp" 539
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/TempMaterial.uasset" 540
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/TempMaterial.uexp" 541
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/PauseMenu/PauseMenu.uasset" 542
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/PauseMenu/PauseMenu.uexp" 543
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/HeartFull.uasset" 544
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/HeartFull.uexp" 545
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/HeartEmpty.uasset" 546
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/HeartEmpty.uexp" 547
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/PlayerHUD.uasset" 548
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/UI/HealthBar/PlayerHUD.uexp" 549
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/EMovement.uasset" 550
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/EMovement.uexp" 551
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolMap.uasset" 552
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolMap.uexp" 553
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolMap.ubulk" 554
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.uasset" 555
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.uexp" 556
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.ubulk" 557
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/Wool.uasset" 558
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/Wool.uexp" 559
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/Burst.uasset" 560
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/Burst.uexp" 561
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/NewGameMode.uasset" 562
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/NewGameMode.uexp" 563
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/DialogueBox.uasset" 564
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/DialogueBox.uexp" 565
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Doors/LevelInteraction.uasset" 566
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Doors/LevelInteraction.uexp" 567
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Doors/DoorInteraction.uasset" 568
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Doors/DoorInteraction.uexp" 569
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/EDirection.uasset" 570
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/EDirection.uexp" 571
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BP_CameraBounds.uasset" 572
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BP_CameraBounds.uexp" 573
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 574
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 575
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BPCameraMovementComponent.uasset" 576
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BPCameraMovementComponent.uexp" 577
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 578
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 579
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BP_Lappe.uasset" 580
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Lappe/BP_Lappe.uexp" 581
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/InteractiveCheckpoint.uasset" 582
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/InteractiveCheckpoint.uexp" 583
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/Checkpoint.uasset" 584
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Checkpoint/Checkpoint.uexp" 585
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/You_did_it.uasset" 586
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/You_did_it.uexp" 587
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/WellDone.uasset" 588
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/WellDone.uexp" 589
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/Light.uasset" 590
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/Light.uexp" 591
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/StationaryLights.uasset" 592
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/StationaryLights.uexp" 593
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/MovingLight.uasset" 594
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LightLevel/MovingLight.uexp" 595
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/InteractableTransition.uasset" 596
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/InteractableTransition.uexp" 597
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/DissapearingInteractableTransition.uasset" 598
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/DissapearingInteractableTransition.uexp" 599
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Item/WallJumpObject.uasset" 600
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Item/WallJumpObject.uexp" 601
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite.uasset" 602
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite.uexp" 603
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite_TileSet.uasset" 604
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite_TileSet.uexp" 605
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/NewSpikes.uasset" 606
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/NewSpikes.uexp" 607
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 608
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 609
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyWalker.uasset" 610
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyWalker.uexp" 611
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/TileMap.uasset" 612
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/TileMap.uexp" 613
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/TileMap_TileSet.uasset" 614
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/TileMap_TileSet.uexp" 615
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/CurtainNormalMap.uasset" 616
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/CurtainNormalMap.uexp" 617
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/CurtainNormalMap.ubulk" 618
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/Curtain.uasset" 619
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/Curtain.uexp" 620
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/Curtain.ubulk" 621
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/Curtain_TileSet.uasset" 622
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/TileMap/Curtain_TileSet.uexp" 623
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Material/Wall.uasset" 624
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Material/Wall.uexp" 625
-"../../../Engine/Content/BasicShapes/Cube.uasset" 626
-"../../../Engine/Content/BasicShapes/Cube.uexp" 627
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 628
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 629
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/DissapearingPlatform/DissapearingStandingPlatform.uasset" 630
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/DissapearingPlatform/DissapearingStandingPlatform.uexp" 631
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatformWithLights.uasset" 632
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatformWithLights.uexp" 633
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/CarnivalInside.uexp" 634
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/CarnivalInside.umap" 635
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyHunter.uasset" 636
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyHunter.uexp" 637
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Transition.uasset" 638
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/LevelTransitions/Transition.uexp" 639
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/Hell_Hole_LightMap.uasset" 640
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/Hell_Hole_LightMap.uexp" 641
-"../../../Engine/Plugins/2D/Paper2D/Content/GeorgesLitSpriteMateral.uasset" 642
-"../../../Engine/Plugins/2D/Paper2D/Content/GeorgesLitSpriteMateral.uexp" 643
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/SignMaterial.uasset" 644
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/SignMaterial.uexp" 645
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/HellHole.uasset" 646
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/HellHole.uexp" 647
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/HellHole_Sprite.uasset" 648
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Foliage/HellHole_Sprite.uexp" 649
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeMaterial.uasset" 650
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/SpikeMaterial.uexp" 651
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/Spikes.uasset" 652
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/EnviromentalHazards/Spikes.uexp" 653
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyTest.uasset" 654
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyTest.uexp" 655
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyMadusa.uasset" 656
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Enemy/BP_EnemyMadusa.uexp" 657
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level1_BuiltData.uasset" 658
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level1_BuiltData.uexp" 659
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level1_BuiltData.ubulk" 660
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/Guy.uasset" 661
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/Guy.uexp" 662
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/GuySprite.uasset" 663
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/GuySprite.uexp" 664
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/DialogueWidget.uasset" 665
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/DialogueWidget.uexp" 666
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/NPCDialogueBP.uasset" 667
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/NPC/NPCDialogueBP.uexp" 668
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/ContinuousMovingPatform/ContinuousMovingPlatformBP.uasset" 669
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/ContinuousMovingPatform/ContinuousMovingPlatformBP.uexp" 670
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatforms.uasset" 671
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatforms.uexp" 672
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/MovingPlatform/MovingPlatform.uasset" 673
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/Platforms/MovingPlatform/MovingPlatform.uexp" 674
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level1.uexp" 675
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level1.umap" 676
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level2_BuiltData.uasset" 677
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level2_BuiltData.uexp" 678
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level2_BuiltData.ubulk" 679
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level2.uexp" 680
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/Level2.umap" 681
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/TitleImage.uasset" 682
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/TitleImage.uexp" 683
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/StarBackground.uasset" 684
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/StarBackground.uexp" 685
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/MainMenu_Widget.uasset" 686
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Core/MainMenu/MainMenu_Widget.uexp" 687
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenu_PC.uasset" 688
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenu_PC.uexp" 689
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenuGameMode.uasset" 690
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenuGameMode.uexp" 691
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenuLevel.uexp" 692
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/MainMenuLevel.umap" 693
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/BaseLevel.uexp" 694
-"C:/Users/georg/OneDrive/Documents/Unreal Projects/ShovementTest/Agulha-main/Content/Map/BaseLevel.umap" 695
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 696
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 697
-"../../../Engine/Content/Maps/Entry.uexp" 698
-"../../../Engine/Content/Maps/Entry.umap" 699
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/TileMap.uasset" 522
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/TileMap.uexp" 523
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/TileMap_TileSet.uasset" 524
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/TileMap_TileSet.uexp" 525
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/Guy.uasset" 526
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/Guy.uexp" 527
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 528
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uexp" 529
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 530
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uexp" 531
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/GuySprite.uasset" 532
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/GuySprite.uexp" 533
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/DialogueWidget.uasset" 534
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/DialogueWidget.uexp" 535
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/DialogueBox.uasset" 536
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/DialogueBox.uexp" 537
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 538
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 539
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/PauseMenu/PauseMenu.uasset" 540
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/PauseMenu/PauseMenu.uexp" 541
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/HeartFull.uasset" 542
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/HeartFull.uexp" 543
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/HeartEmpty.uasset" 544
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/HeartEmpty.uexp" 545
+"D:/Dowloads/Agulha-main/Agulha-main/Content/GameInstance/GameInstanceTest.uasset" 546
+"D:/Dowloads/Agulha-main/Agulha-main/Content/GameInstance/GameInstanceTest.uexp" 547
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/PlayerHUD.uasset" 548
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/UI/HealthBar/PlayerHUD.uexp" 549
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/EMovement.uasset" 550
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/EMovement.uexp" 551
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolMap.uasset" 552
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolMap.uexp" 553
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolMap.ubulk" 554
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.uasset" 555
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.uexp" 556
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/WoolBurstTransparent.ubulk" 557
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/Wool.uasset" 558
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/Wool.uexp" 559
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/Burst.uasset" 560
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/Burst.uexp" 561
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/NewGameMode.uasset" 562
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/NewGameMode.uexp" 563
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Doors/LevelInteraction.uasset" 564
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Doors/LevelInteraction.uexp" 565
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Doors/DoorInteraction.uasset" 566
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Doors/DoorInteraction.uexp" 567
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/EDirection.uasset" 568
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/EDirection.uexp" 569
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BP_CameraBounds.uasset" 570
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BP_CameraBounds.uexp" 571
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BPCameraMovementComponent.uasset" 572
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BPCameraMovementComponent.uexp" 573
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 574
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 575
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/DamageTypeEnemy.uasset" 576
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/DamageTypeEnemy.uexp" 577
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 578
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 579
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/DamageTypeChase.uasset" 580
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/DamageTypeChase.uexp" 581
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyBase.uasset" 582
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyBase.uexp" 583
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/CheckpointInteraction.uasset" 584
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/CheckpointInteraction.uexp" 585
+"D:/Dowloads/Agulha-main/Agulha-main/Content/TempMaterial.uasset" 586
+"D:/Dowloads/Agulha-main/Agulha-main/Content/TempMaterial.uexp" 587
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BP_Lappe.uasset" 588
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Lappe/BP_Lappe.uexp" 589
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/NPCDialogueBP.uasset" 590
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/NPC/NPCDialogueBP.uexp" 591
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/InteractableTransition.uasset" 592
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/InteractableTransition.uexp" 593
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/BaseLevel.uexp" 594
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/BaseLevel.umap" 595
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/CurtainNormalMap.uasset" 596
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/CurtainNormalMap.uexp" 597
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/CurtainNormalMap.ubulk" 598
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/Curtain.uasset" 599
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/Curtain.uexp" 600
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/Curtain.ubulk" 601
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/Curtain_TileSet.uasset" 602
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/TileMap/Curtain_TileSet.uexp" 603
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 604
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 605
+"../../../Engine/Content/BasicShapes/Cube.uasset" 606
+"../../../Engine/Content/BasicShapes/Cube.uexp" 607
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/OneWayPlatform/OneWayPlatform.uasset" 608
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/OneWayPlatform/OneWayPlatform.uexp" 609
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Material/Wall.uasset" 610
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Material/Wall.uexp" 611
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/DissapearingPlatform/DissapearingStandingPlatform.uasset" 612
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/DissapearingPlatform/DissapearingStandingPlatform.uexp" 613
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatformWithLights.uasset" 614
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatformWithLights.uexp" 615
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/StationaryLights.uasset" 616
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/StationaryLights.uexp" 617
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/MovingLight.uasset" 618
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/MovingLight.uexp" 619
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/DissapearingInteractableTransition.uasset" 620
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/DissapearingInteractableTransition.uexp" 621
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Item/WallJumpObject.uasset" 622
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Item/WallJumpObject.uexp" 623
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite.uasset" 624
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite.uexp" 625
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite_TileSet.uasset" 626
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeSprite_TileSet.uexp" 627
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/NewSpikes.uasset" 628
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/NewSpikes.uexp" 629
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uasset" 630
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset01.uexp" 631
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyWalker.uasset" 632
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyWalker.uexp" 633
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_BigEnemy.uasset" 634
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_BigEnemy.uexp" 635
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/Bench.uasset" 636
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/Bench.uexp" 637
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/BenchSprite.uasset" 638
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/BenchSprite.uexp" 639
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/InteractiveCheckpoint.uasset" 640
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/InteractableCheckpoint/InteractiveCheckpoint.uexp" 641
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/Checkpoint.uasset" 642
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Checkpoint/Checkpoint.uexp" 643
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/Light.uasset" 644
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LightLevel/Light.uexp" 645
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/CarnivalInside.uexp" 646
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/CarnivalInside.umap" 647
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level1_BuiltData.uasset" 648
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level1_BuiltData.uexp" 649
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level1_BuiltData.ubulk" 650
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/ContinuousMovingPatform/ContinuousMovingPlatformBP.uasset" 651
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/ContinuousMovingPatform/ContinuousMovingPlatformBP.uexp" 652
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatforms.uasset" 653
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/SwingingPlatforms/SwingingPlatforms.uexp" 654
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/MovingPlatform/MovingPlatform.uasset" 655
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Platforms/MovingPlatform/MovingPlatform.uexp" 656
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Transition.uasset" 657
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/LevelTransitions/Transition.uexp" 658
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/Hell_Hole_LightMap.uasset" 659
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/Hell_Hole_LightMap.uexp" 660
+"../../../Engine/Plugins/2D/Paper2D/Content/GeorgesLitSpriteMateral.uasset" 661
+"../../../Engine/Plugins/2D/Paper2D/Content/GeorgesLitSpriteMateral.uexp" 662
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/SignMaterial.uasset" 663
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/SignMaterial.uexp" 664
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/HellHole.uasset" 665
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/HellHole.uexp" 666
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/HellHole_Sprite.uasset" 667
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Foliage/HellHole_Sprite.uexp" 668
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeMaterial.uasset" 669
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/SpikeMaterial.uexp" 670
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/Spikes.uasset" 671
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/EnviromentalHazards/Spikes.uexp" 672
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyTest.uasset" 673
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyTest.uexp" 674
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyMadusa.uasset" 675
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyMadusa.uexp" 676
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyHunter.uasset" 677
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/Enemy/BP_EnemyHunter.uexp" 678
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/You_did_it.uasset" 679
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/You_did_it.uexp" 680
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/WellDone.uasset" 681
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/WellDone.uexp" 682
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level1.uexp" 683
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level1.umap" 684
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level2_BuiltData.uasset" 685
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level2_BuiltData.uexp" 686
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level2_BuiltData.ubulk" 687
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level2.uexp" 688
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/Level2.umap" 689
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenu_PC.uasset" 690
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenu_PC.uexp" 691
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenuGameMode.uasset" 692
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenuGameMode.uexp" 693
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/MainMenu/TitleImage.uasset" 694
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/MainMenu/TitleImage.uexp" 695
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/MainMenu/MainMenu_Widget.uasset" 696
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Core/MainMenu/MainMenu_Widget.uexp" 697
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenuLevel.uexp" 698
+"D:/Dowloads/Agulha-main/Agulha-main/Content/Map/MainMenuLevel.umap" 699
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 700
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 701
+"../../../Engine/Content/Maps/Entry.uexp" 702
+"../../../Engine/Content/Maps/Entry.umap" 703

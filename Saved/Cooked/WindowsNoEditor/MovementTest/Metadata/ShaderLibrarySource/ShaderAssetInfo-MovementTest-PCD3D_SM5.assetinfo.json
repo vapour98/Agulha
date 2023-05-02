@@ -262,18 +262,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5D7658818E632695CFD63C7BD14A76962FA238D6",
-			"Assets": [
-				"/Game/TempMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2BAD0E83F58C13AA797739701713D57236597DC0",
-			"Assets": [
-				"/Game/Core/Lappe/Wool"
-			]
-		},
-		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -286,15 +274,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D546920E704083FF1F9B31E4438F1D0600C4CFEB",
+			"ShaderMapHash": "0F196AD3B4DBF6A41B0D072CF238A3375593224A",
 			"Assets": [
-				"/Paper2D/DefaultLitSpriteMaterial"
+				"/Game/Core/EnviromentalHazards/SpikeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FCD6559132556BE161ABDA7AA8BA319088DE7AE6",
+			"Assets": [
+				"/Paper2D/GeorgesLitSpriteMateral"
 			]
 		},
 		{
 			"ShaderMapHash": "1D9BD28C163CA5A3BA3822C56D870D70FC37D8BA",
 			"Assets": [
 				"/Engine/MapTemplates/Materials/BasicAsset01"
+			]
+		},
+		{
+			"ShaderMapHash": "D546920E704083FF1F9B31E4438F1D0600C4CFEB",
+			"Assets": [
+				"/Paper2D/DefaultLitSpriteMaterial"
 			]
 		},
 		{
@@ -310,15 +310,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FCD6559132556BE161ABDA7AA8BA319088DE7AE6",
+			"ShaderMapHash": "5D7658818E632695CFD63C7BD14A76962FA238D6",
 			"Assets": [
-				"/Paper2D/GeorgesLitSpriteMateral"
+				"/Game/TempMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "0F196AD3B4DBF6A41B0D072CF238A3375593224A",
+			"ShaderMapHash": "2BAD0E83F58C13AA797739701713D57236597DC0",
 			"Assets": [
-				"/Game/Core/EnviromentalHazards/SpikeMaterial"
+				"/Game/Core/Lappe/Wool"
 			]
 		}
 	]
